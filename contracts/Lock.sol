@@ -24,3 +24,4 @@ contract Greeter {
 
     fallback() external payable {}
 }
+
