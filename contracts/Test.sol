@@ -15,6 +15,4 @@ contract SimpleStorage {
        FavoriteNumber = _favoriteNumber;
    }
 }
-   
 
-   
